@@ -97,7 +97,3 @@ https://amballakavya.atlassian.net/jira/software/c/projects/ECS/boards/3
 - Release planning  
 - Stakeholder-oriented delivery
 
----
-
-## 💼 Resume Line
-**Managed an Agile Scrum project in Jira, handling backlog creation, sprint tracking, and release planning for an e-commerce platform.**
