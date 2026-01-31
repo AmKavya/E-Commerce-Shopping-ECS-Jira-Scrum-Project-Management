@@ -52,7 +52,7 @@ The Scrum workflow followed:
 
 Tasks were tracked continuously to monitor sprint progress and delivery.
 
-![Workflow Tracking]()
+![Workflow Tracking](sprints.png)
 
 ---
 
